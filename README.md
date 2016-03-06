@@ -10,4 +10,5 @@ This application uses the following technologies:
  - Browserify
  - Bootstrap
  
- Deployments to GitHub pages use [gulp-gh-pages](https://github.com/shinnn/gulp-gh-pages)
+## Deployments
+Deployments to GitHub pages use [gulp-gh-pages](https://github.com/shinnn/gulp-gh-pages)
