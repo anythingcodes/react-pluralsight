@@ -11,7 +11,7 @@ var lint = require('gulp-eslint'); // Lint JS files, including JSX
 
 var config = {
     port: 9005,
-    devBaseUrl: 'http://anything.codes/react-pluralsight',
+    devBaseUrl: 'http://localhost',
     paths: {
         html: './src/*.html', // any HTML files in src folder is matched
         js: './src/**/*.js',
